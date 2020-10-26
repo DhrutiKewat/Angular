@@ -17,5 +17,8 @@ export class AppComponent {
     name:'Kruti',
     age:20
   }
-  arr=['dhru','hello','world']
+  arr=['dhru','hello','world','dhruti']
+  a=100;
+  b=200;
+  siteUrl=window.location.href
 }
